@@ -1,7 +1,7 @@
 YOURLS HTML Sitemap Generator
 ====================
 
-Plugin for [YOURLS](https://yourls.org) `v1.19.2`. 
+Plugin for [YOURLS](https://yourls.org) `v1.9.2`. 
 
 *I haven't tested it with older versions so tread with caution :)*
 
